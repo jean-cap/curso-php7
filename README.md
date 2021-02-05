@@ -23,3 +23,5 @@ Código do curso de PHP 7 da HCode disponível na plataforma de ensino Udemy.
 * GitHub vs BitBucket
 * Teste 4: Atualizando o repositório remoto
 * Editando arquivos remotos e resolvendo conflitos
+
+## Seção 3: Conhecendo a linguagem PHP
