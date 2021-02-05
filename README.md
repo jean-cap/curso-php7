@@ -4,6 +4,15 @@ Código do curso de PHP 7 da HCode disponível na plataforma de ensino Udemy.
 
 ## Seção 1: Introdução ao PHP
 
+* Boas Vindas
+* Como funciona a plataforma da Udemy
+* Dúvidas, certificados de conclusão, certificado HCode, novos recursos
+* História do PHP e Evolução da Linguagem
+* Preparando o ambiente - Instalando PHP 7 e Apache
+* Editor vs IDE e Hello World
+* A arquitetura cliente/servidor
+* Teste 1: Introdução ao PHP
+
 ## Seção 2: Entendendo controle de versão
 
 * O que é o Git
