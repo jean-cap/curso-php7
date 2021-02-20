@@ -25,3 +25,37 @@ Código do curso de PHP 7 da HCode disponível na plataforma de ensino Udemy.
 * Editando arquivos remotos e resolvendo conflitos
 
 ## Seção 3: Conhecendo a linguagem PHP
+
+* Utilizando variáveis com PHP
+* Conhecendo os tipos de dados em PHP
+* Teste 5: Variáveis e tipos de dados no PHP
+* Variáveis pré-definidas
+* Escopo de variável
+* Teste 6: Relembrando um pouco mais de variáveis
+* Conhecendo os operadores do PHP
+* Teste 7: Relembrando os operadores do PHP
+* Strings em PHP
+* Teste 8: Strings em PHP
+* Incluindo arquivos com include e require
+* Teste 9: Include e require
+
+## Seção 4: Estruturas de controle e laços de repetição
+
+* Estruturas condicionais - if, elseif e else
+* Switch Case
+* For
+* Foreach
+* While
+* Teste 10: Estruturas de controle e lações de repetição
+
+## Seção 5: Arrays em PHP
+
+* Array em PHP
+* JSON
+* Constantes e Array Constantes
+* Teste 11: Arrays em PHP
+* Código do curso
+
+## Seção 6: Sessão no PHP 7
+
+* Criando e entendendo sessões
