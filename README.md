@@ -61,3 +61,7 @@ Código do curso de PHP 7 da HCode disponível na plataforma de ensino Udemy.
 * Criando e entendendo sessões
 * ID de sessão
 * Funções para sessão
+
+## Seção 7: Trabalhando com funções em PHP
+
+* Criando funções de usuário

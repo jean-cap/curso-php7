@@ -109,6 +109,8 @@
 		<li><a href="session/exemplo-01.php">Exemplo 01</a></li>
 		<li><a href="session/exemplo-02.php">Exemplo 02</a></li>
 		<li><a href="session/exemplo-03.php">Exemplo 03</a></li>
+                <li><a href="session/exemplo-04.php">Exemplo 04</a></li>
+                <li><a href="session/exemplo-05.php">Exemplo 05</a></li>
 	</ul>
 </body>
 </html>
