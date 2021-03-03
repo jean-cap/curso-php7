@@ -128,5 +128,14 @@
     <li><a href="funcoes/exemplo-10.php">Exemplo 10</a></li>
     <li><a href="funcoes/exemplo-11.php">Exemplo 11</a></li>
 </ul>
+
+<h2>Data e hora no PHP</h2>
+
+<ul>
+    <li><a href="date/exemplo-01.php">Exemplo 01</a></li>
+    <li><a href="date/exemplo-02.php">Exemplo 02</a></li>
+    <li><a href="date/exemplo-03.php">Exemplo 03</a></li>
+    <li><a href="date/exemplo-04.php">Exemplo 04</a></li>
+</ul>
 </body>
 </html>

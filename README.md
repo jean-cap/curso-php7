@@ -70,3 +70,9 @@ Código do curso de PHP 7 da HCode disponível na plataforma de ensino Udemy.
 * Funções no PHP 7 novidades
 * Funções recursivas
 * Funções anônimas
+
+## Seção 8: Trabalhando com data e hora no PHP
+
+* Função date() e função time()
+* Definindo a configuração regional com setlocale()
+* Classe DateTime
