@@ -65,3 +65,8 @@ Código do curso de PHP 7 da HCode disponível na plataforma de ensino Udemy.
 ## Seção 7: Trabalhando com funções em PHP
 
 * Criando funções de usuário
+* Parâmetros de funções
+* Parâmetros por valor x por referência
+* Funções no PHP 7 novidades
+* Funções recursivas
+* Funções anônimas

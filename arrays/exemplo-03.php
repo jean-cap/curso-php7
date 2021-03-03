@@ -13,3 +13,4 @@ array_push($pessoas, [
 ]);
 
 print_r($pessoas[0]['nome']);
+
