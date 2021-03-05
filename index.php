@@ -137,5 +137,14 @@
     <li><a href="date/exemplo-03.php">Exemplo 03</a></li>
     <li><a href="date/exemplo-04.php">Exemplo 04</a></li>
 </ul>
+
+<h2>Programação orientada a objetos - Introdução</h2>
+
+<ul>
+    <li><a href="POO/exemplo-01.php">Exemplo 01</a></li>
+    <li><a href="POO/exemplo-02.php">Exemplo 02</a></li>
+    <li><a href="POO/exemplo-03.php">Exemplo 03</a></li>
+</ul>
+
 </body>
 </html>
